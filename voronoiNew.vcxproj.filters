@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ofApp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxBaseGui.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxButton.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxGuiGroup.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxLabel.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxPanel.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxSlider.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxSliderGroup.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxGui\src\ofxToggle.cpp">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxSvg\src\ofxSvg.cpp">
+      <Filter>addons\ofxSvg\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxSvg\libs\svgTiny\src\src_colors.cpp">
+      <Filter>addons\ofxSvg\libs\svgTiny\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxSvg\libs\svgTiny\src\svgtiny.cpp">
+      <Filter>addons\ofxSvg\libs\svgTiny\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxSvg\libs\svgTiny\src\svgtiny_gradient.cpp">
+      <Filter>addons\ofxSvg\libs\svgTiny\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxSvg\libs\svgTiny\src\svgtiny_list.cpp">
+      <Filter>addons\ofxSvg\libs\svgTiny\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxVoronoi\src\ofxVoronoi.cpp">
+      <Filter>addons\ofxVoronoi\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxVoronoi\libs\Voronoi\lib\cell_2d.cpp">
+      <Filter>addons\ofxVoronoi\libs\Voronoi\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxVoronoi\libs\Voronoi\lib\cell_nc_2d.cpp">
+      <Filter>addons\ofxVoronoi\libs\Voronoi\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxVoronoi\libs\Voronoi\lib\common.cpp">
+      <Filter>addons\ofxVoronoi\libs\Voronoi\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxVoronoi\libs\Voronoi\lib\container_2d.cpp">
+      <Filter>addons\ofxVoronoi\libs\Voronoi\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxVoronoi\libs\Voronoi\lib\ctr_boundary_2d.cpp">
+      <Filter>addons\ofxVoronoi\libs\Voronoi\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxVoronoi\libs\Voronoi\lib\c_loops_2d.cpp">
+      <Filter>addons\ofxVoronoi\libs\Voronoi\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxVoronoi\libs\Voronoi\lib\v_base_2d.cpp">
+      <Filter>addons\ofxVoronoi\libs\Voronoi\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxVoronoi\libs\Voronoi\lib\v_base_wl_2d.cpp">
+      <Filter>addons\ofxVoronoi\libs\Voronoi\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxVoronoi\libs\Voronoi\lib\v_compute_2d.cpp">
+      <Filter>addons\ofxVoronoi\libs\Voronoi\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxVoronoi\libs\Voronoi\lib\wall_2d.cpp">
+      <Filter>addons\ofxVoronoi\libs\Voronoi\lib</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxVoronoi\libs\Voronoi\src\Voronoi2D.cpp">
+      <Filter>addons\ofxVoronoi\libs\Voronoi\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxBeat\src\ofxBeat.cpp">
+      <Filter>addons\ofxBeat\src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\addons\ofxBeat\src\fft.cpp">
+      <Filter>addons\ofxBeat\src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\particleVoronoi.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\voronoi.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{d8376475-7454-4a24-b08a-aac121d3ad6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons">
+      <UniqueIdentifier>{71834F65-F3A9-211E-73B8-DC85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxGui">
+      <UniqueIdentifier>{4F2A59AF-5F4E-704B-D067-EC13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxGui\src">
+      <UniqueIdentifier>{645E9533-4DCD-6179-1CDF-CB65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxSvg">
+      <UniqueIdentifier>{3DD76815-827C-5F89-582D-2CF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxSvg\src">
+      <UniqueIdentifier>{6A00B88F-1ADB-BB17-8276-ED19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxSvg\libs">
+      <UniqueIdentifier>{C226E9C6-88C9-1F12-D422-3DA3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxSvg\libs\svgTiny">
+      <UniqueIdentifier>{0A0E4783-DE3F-EB55-7775-3205}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxSvg\libs\svgTiny\src">
+      <UniqueIdentifier>{668F2528-598B-D351-B74F-9E6F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxVoronoi">
+      <UniqueIdentifier>{5EED1C10-67BF-349B-E29E-9691}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxVoronoi\src">
+      <UniqueIdentifier>{85832432-B506-AB67-6FFA-D38B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxVoronoi\libs">
+      <UniqueIdentifier>{03AC4FA8-BF83-EC4E-C0E8-B916}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxVoronoi\libs\Voronoi">
+      <UniqueIdentifier>{81898968-8B5A-F3A5-A3F7-88E9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxVoronoi\libs\Voronoi\lib">
+      <UniqueIdentifier>{D31977C3-6EB8-CE8E-8679-E01D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxVoronoi\libs\Voronoi\src">
+      <UniqueIdentifier>{4014DDBD-0EC1-0E71-20E4-683B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxBeat">
+      <UniqueIdentifier>{b2bd77c7-b354-4a57-8727-8d0f578293a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="addons\ofxBeat\src">
+      <UniqueIdentifier>{f5123ead-1f23-40b2-a186-cdc779ee6b1f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ofApp.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxBaseGui.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxButton.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxGui.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxGuiGroup.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxLabel.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxPanel.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxSlider.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxSliderGroup.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxGui\src\ofxToggle.h">
+      <Filter>addons\ofxGui\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxSvg\src\ofxSvg.h">
+      <Filter>addons\ofxSvg\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxSvg\libs\svgTiny\src\svgtiny.h">
+      <Filter>addons\ofxSvg\libs\svgTiny\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxSvg\libs\svgTiny\src\svgtiny_internal.h">
+      <Filter>addons\ofxSvg\libs\svgTiny\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxVoronoi\src\ofxVoronoi.h">
+      <Filter>addons\ofxVoronoi\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxVoronoi\libs\Voronoi\lib\cell_2d.h">
+      <Filter>addons\ofxVoronoi\libs\Voronoi\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxVoronoi\libs\Voronoi\lib\cell_nc_2d.h">
+      <Filter>addons\ofxVoronoi\libs\Voronoi\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxVoronoi\libs\Voronoi\lib\common.h">
+      <Filter>addons\ofxVoronoi\libs\Voronoi\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxVoronoi\libs\Voronoi\lib\config.h">
+      <Filter>addons\ofxVoronoi\libs\Voronoi\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxVoronoi\libs\Voronoi\lib\container_2d.h">
+      <Filter>addons\ofxVoronoi\libs\Voronoi\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxVoronoi\libs\Voronoi\lib\ctr_boundary_2d.h">
+      <Filter>addons\ofxVoronoi\libs\Voronoi\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxVoronoi\libs\Voronoi\lib\c_loops_2d.h">
+      <Filter>addons\ofxVoronoi\libs\Voronoi\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxVoronoi\libs\Voronoi\lib\rad_option.h">
+      <Filter>addons\ofxVoronoi\libs\Voronoi\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxVoronoi\libs\Voronoi\lib\voro++_2d.h">
+      <Filter>addons\ofxVoronoi\libs\Voronoi\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxVoronoi\libs\Voronoi\lib\v_base_2d.h">
+      <Filter>addons\ofxVoronoi\libs\Voronoi\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxVoronoi\libs\Voronoi\lib\v_compute_2d.h">
+      <Filter>addons\ofxVoronoi\libs\Voronoi\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxVoronoi\libs\Voronoi\lib\wall_2d.h">
+      <Filter>addons\ofxVoronoi\libs\Voronoi\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxVoronoi\libs\Voronoi\lib\worklist_2d.h">
+      <Filter>addons\ofxVoronoi\libs\Voronoi\lib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxVoronoi\libs\Voronoi\src\Voronoi2D.h">
+      <Filter>addons\ofxVoronoi\libs\Voronoi\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxBeat\src\fft.h">
+      <Filter>addons\ofxBeat\src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\addons\ofxBeat\src\ofxBeat.h">
+      <Filter>addons\ofxBeat\src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\particleVoronoi.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\voronoi.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="icon.rc" />
+  </ItemGroup>
+</Project>
